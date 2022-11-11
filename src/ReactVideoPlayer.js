@@ -3,7 +3,7 @@ import React from 'react';
 // import { DefaultPlayer as Video } from 'react-html5video';
 // import 'react-html5video/dist/styles.css'
 
-import video from './videos/video.mp4'
+import video from './videos/introvideo.mp4'
 
 const ReactVideoPlayer = () => {
     return(
